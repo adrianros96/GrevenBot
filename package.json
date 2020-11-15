@@ -1,0 +1,28 @@
+{
+  "name": "grevenbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianros96/GrevenBot.git"
+  },
+  "author": "Adrian & Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianros96/GrevenBot/issues"
+  },
+  "homepage": "https://github.com/adrianros96/GrevenBot#readme",
+  "dependencies": {
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.0.4"
+  }
+}
